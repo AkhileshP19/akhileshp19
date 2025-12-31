@@ -50,7 +50,7 @@ Here are the technologies I work with:
 
 ### 🛠️ My Featured Projects
 
-Here are some of the projects I've built. (I recommend pinning these to your profile too!)
+Here are some of the projects I've built.
 
 #### 1. [Doctor Appointment System](https://docy-talks.vercel.app/)
 * **Description:** A full-stack doctor appointment system with user authentication (Clerk.dev) and real-time video consultation features (Vonage).
