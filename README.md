@@ -1,6 +1,6 @@
 # Hi, I'm Akhilesh Patil 👋
 
-## Software Developer Intern
+## Software Engineer
 
 A highly motivated and detail-oriented developer passionate about building modern, scalable, and user-centric web applications.
 
@@ -8,7 +8,7 @@ A highly motivated and detail-oriented developer passionate about building moder
 
 ### 👨‍💻 About Me
 
-* 🔭 **Currently:** Working as a Software Developer Intern at **tCognition**, where I'm contributing to the UI development of **XseedAI**, an AI-powered Applicant Tracking System.
+* 🔭 **Currently:** Working as a Software Engineer at **tCognition**, where I'm contributing to the UI development of **XseedAI**, an AI-powered Applicant Tracking System.
 * 🌱 **Interests:** I'm deeply interested in web development, exploring new **GenAI applications**, and reading tech blogs to stay updated with software trends.
 * 💻 **Ask me about:** React, Next.js, TypeScript, Tailwind CSS, and building responsive, reusable, and accessible front-end components.
 * ✈️ **Off-duty:** When I'm not coding, you can find me traveling to new places or reading.
